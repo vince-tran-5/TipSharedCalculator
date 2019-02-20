@@ -7,7 +7,7 @@ Shared Tip Calculator using Android Studio.
 
 2) The user should be able to select state (either from a drop down box or enter in an EditText). Having just 3 states is enough (let's say CA, OR, and VA). Different states have different tax rates.
 
-3)The calculator will only perform calculation when subtotal is positive, number of participants is a positive integer, sales tax percentage and tip percentage is a valid percentage. Otherwise, it will display an error message.
+3) The calculator will only perform calculation when subtotal is positive, number of participants is a positive integer, sales tax percentage and tip percentage is a valid percentage. Otherwise, it will display an error message.
 
 4) Extend and update TipCalculator Class.
 
